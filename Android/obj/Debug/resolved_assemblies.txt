@@ -1,0 +1,14 @@
+/Users/quentinlautischer/Development/WalkingGameMG/Android/obj/Debug/android/assets/WalkingGame.Droid.dll
+/Users/quentinlautischer/Development/WalkingGameMG/Android/obj/Debug/android/assets/Java.Interop.dll
+/Users/quentinlautischer/Development/WalkingGameMG/Android/obj/Debug/android/assets/Mono.Android.dll
+/Users/quentinlautischer/Development/WalkingGameMG/Android/obj/Debug/android/assets/MonoGame.Framework.dll
+/Users/quentinlautischer/Development/WalkingGameMG/Android/obj/Debug/android/assets/mscorlib.dll
+/Users/quentinlautischer/Development/WalkingGameMG/Android/obj/Debug/android/assets/OpenTK.dll
+/Users/quentinlautischer/Development/WalkingGameMG/Android/obj/Debug/android/assets/System.Core.dll
+/Users/quentinlautischer/Development/WalkingGameMG/Android/obj/Debug/android/assets/System.dll
+/Users/quentinlautischer/Development/WalkingGameMG/Android/obj/Debug/android/assets/System.Xml.dll
+/Users/quentinlautischer/Development/WalkingGameMG/Android/obj/Debug/android/assets/System.Net.Http.dll
+/Users/quentinlautischer/Development/WalkingGameMG/Android/obj/Debug/android/assets/System.Runtime.Serialization.dll
+/Users/quentinlautischer/Development/WalkingGameMG/Android/obj/Debug/android/assets/System.ServiceModel.Internals.dll
+/Users/quentinlautischer/Development/WalkingGameMG/Android/obj/Debug/android/assets/OpenTK-1.0.dll
+/Users/quentinlautischer/Development/WalkingGameMG/Android/obj/Debug/android/assets/Mono.Security.dll
